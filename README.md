@@ -2,7 +2,7 @@
 # Olá, eu sou MATHEUS MARTINEZ CREPALDI 👋
 
 ### 🎓 Pesquisador em POLÍTICAS PÚBLICAS 
-Atualmente sou desenvolvo projeto de pesquisa no Programa de Mestrado Acadêmico do Departamento de Ciência Política da Faculdade de Filosofia, Letras e Ciências Humanas da Universidade de São Paulo (DCP/FFLCH/USP). 
+Atualmente eu desenvolvo um projeto de pesquisa no Programa de Mestrado Acadêmico do Departamento de Ciência Política da Faculdade de Filosofia, Letras e Ciências Humanas da Universidade de São Paulo (DCP/FFLCH/USP). 
 
 Minha pesquisa tem por área de concentração as "Políticas Públicas", tendo como objeto principal, as "Emendas Parlamentares", inseridas nas discussões sobre Orçamento e Planejamento Públicos e das Relações Executivo-Legislativo.
 
