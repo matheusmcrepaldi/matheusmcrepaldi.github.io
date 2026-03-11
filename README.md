@@ -25,6 +25,6 @@ Minha pesquisa tem por área de concentração as "Políticas Públicas", tendo 
 
 ## ✉️ Contato
 - [Lattes] <a href="https://lattes.cnpq.br/6879205078966911" target="_blank">Lattes</a> 
-- [LinkedIn] <a href="www.linkedin.com/in/matheusmartinezcrepaldi" target="_blank">LinkedIn</a>
+- [LinkedIn] <a href="https://www.linkedin.com/in/matheusmartinezcrepaldi?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BR5I7mS6rQ%2FOkFtkRR5Tmig%3D%3D" target="_blank">LinkedIn</a>
 - [Instragram] <a href="https://www.instagram.com/mmcrepaldi/" target="_blank">Instagram</a>
 - Email: matheus1mc.mc@gmail.com
